@@ -78,7 +78,7 @@ App({
         roleFlag: false,
         url: "https://www.qhome.pro/",//http://localhost:8090
         BlogName: "阿柒的Space",
-        token: "123$Rewq",
+        token: "3:Z4-mYLm!ick8e",
         highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
         adminOpenid: "o08om5QDCRM1dcYSY3rEICwJRd0w",
         HaloUser: "li",
